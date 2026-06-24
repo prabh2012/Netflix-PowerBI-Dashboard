@@ -60,7 +60,7 @@ The objective of this project is to transform raw Netflix data into meaningful i
 
 ## 📷 Dashboard Preview
 
-
+Dashboard ScreenShot.png
 
 ---
 
